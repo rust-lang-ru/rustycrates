@@ -12,6 +12,9 @@
 
 ## Список крейтов
 
-| crate | votes |
-| ---   | ---   |
-|       |       |
+| crate      | votes |
+| ---        | ---   |
+| [goose][1] | 1     |
+
+
+[1]: https://github.com/rust-lang-ru/rustycrates/issues/1
